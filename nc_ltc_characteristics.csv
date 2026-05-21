@@ -1,0 +1,420 @@
+Provider Number,Facility Name,City,State,Zip Code,Certification Date,Medicare Census,Medicaid Census,Other Census,Total Residents,Program Participation Code,Hospital Based,Ownership Type,Multi-Facility Organization,Multi-Facility Organization Name,Number of AIDS Beds,Number of Alzheimer's Disease Beds,Number of Dialysis Beds,Number of Disabled Children/Young Adult Beds,Number of Head Trauma Beds,Number of Hospice Beds,Number of Huntington's Disease Beds,Number of Ventilator Beds,Number of Other Specialized Rehab Beds,Organized Residents' Group,Organized Family Member Group,Facility Conducts Experimental Research,Continuing Care Retirement Community (CCRC),7 Day RN Waiver Date,7 Day RN Hrs Waived Per Week,24 Hr Licensed Nursing Waiver Date,24 Hr Licensed Nursing Hrs Waived Per Week,Nurse Aide Training and Competency Evaluation Program
+345000,Autumn Care Of Biscoe,Biscoe,NC,27209,2025-03-13,15,77,10,102,SNF/NF Distinct Part,No,For Profit - LLC,Yes,Saber Healthcare,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345001,Hillcrest Convalescent Center,Durham,NC,27705,2025-02-21,62,6,6,74,SNF/NF Distinct Part,No,For Profit - Corporation,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,Yes
+345002,Cypress Pointe Rehabilitation Center,Wilmington,NC,28401,2025-03-20,28,42,7,77,SNF/NF Dual Certification,No,For Profit - Partnership,Yes,Southern Healthcare,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345003,Silas Creek Rehabilitation Center,Winston Salem,NC,27103,2025-05-02,13,61,8,82,SNF/NF Dual Certification,No,For Profit - LLC,Yes,Southern Healthcare Management,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345004,PERSON MEMORIAL HOSPITAL,ROXBORO,NC,27573,2024-09-19,3,35,6,44,SNF/NF - Medicare/Medicaid,Yes,For Profit - LLC,Yes,"Lifepoint Health, LLC",0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345006,Blumenthal Health and Rehabilitation Center,Greensboro,NC,27455,2024-11-01,11,58,61,130,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Medical Facilities of America,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345010,Bear Mountain Health and Rehabilitation,Asheville,NC,28804,2025-05-09,2,52,11,65,SNF/NF Dual Certification,No,For Profit - LLC,Yes,Ascent Healthcare Management,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345011,Pine Acres Center for Nursing and Rehabilitation,Lexington,NC,27292,2024-03-28,2,74,25,101,SNF/NF Dual Certification,No,For Profit - Corporation,Yes,Alliance Health Group,0,34,0,0,8,3,2,0,0,Yes,No,No,No,,0,,0,No
+345013,Peak Resources - Charlotte,Charlotte,NC,28205,2024-03-21,8,97,16,121,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Peak Resources INC,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345014,Linden Place Center for Nursing and Rehabilitation,Greensboro,NC,27401,2024-09-12,13,65,12,90,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Alliance Health Group,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345015,Clapp's Convalescent Nursing Home Inc,Asheboro,NC,27203,2024-10-02,17,56,17,90,SNF/NF - Medicare/Medicaid,No,For Profit - Individual,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345024,Clapps Nursing Center Inc,Pleasant Garden,NC,27313,2024-06-26,11,67,27,105,SNF/NF - Medicare/Medicaid,No,For Profit - Individual,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345026,Royal Park Rehabilitation & Health Center,Matthews,NC,28105,2024-08-08,12,71,61,144,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Liberty Healthcare,3,65,8,0,0,19,0,1,0,Yes,No,No,No,,0,,0,No
+345036,Elizabeth City Health and Rehabilitation,Elizabeth City,NC,27909,2024-04-05,39,78,39,156,SNF/NF - Medicare/Medicaid,No,For Profit - Individual,No,,0,17,3,0,0,7,1,0,0,Yes,No,No,No,,0,,0,No
+345039,Summerstone Health and Rehabilitation Center,Kernersville,NC,27284,2025-01-10,9,63,37,109,SNF/NF Dual Certification,No,For Profit - LLC,Yes,Liberty Healthcare,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345044,Saint Joseph of the Pines Health Center,Pinehurst,NC,28374,2024-07-11,25,15,25,65,SNF/NF - Medicare/Medicaid,No,Non-Profit - Nonprofit Corporation,Yes,Trinity Health,0,0,0,0,0,0,0,0,0,Yes,No,No,Yes,,0,,0,No
+345045,The Foley Center at Chestnut Ridge,Blowing Rock,NC,28605,2024-07-03,9,43,28,80,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Liberty Healthcare,0,0,0,0,0,9,0,0,0,Yes,No,No,No,,0,,0,No
+345048,Mountain Ridge Health and Rehab,Black Mountain,NC,28711,2025-05-30,17,54,12,83,SNF/NF Dual Certification,No,For Profit - Corporation,Yes,"WW Healthcare Consultants, LLC",0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345049,Raleigh Rehabilitation Center,Raleigh,NC,27605,2024-12-19,8,95,29,132,SNF/NF Dual Certification,No,For Profit - Corporation,Yes,Southern Healthcare Group,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345050,Jacob's Creek Nursing and Rehabilitation Center,Madison,NC,27025,2024-09-18,4,115,35,154,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,No,,0,39,0,3,6,9,0,0,0,Yes,No,No,No,,0,,0,No
+345051,Anson Health and Rehabilitation,Wadesboro,NC,28170,2024-10-31,3,53,15,71,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Sanstone,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345053,Pettigrew Rehabilitation Center,Durham,NC,27705,2025-03-07,7,58,13,78,SNF/NF Dual Certification,No,For Profit - LLC,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345054,Woodhaven Nursing Center,Lumberton,NC,28358,2024-09-12,7,85,14,106,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Liberty Healthcare,0,15,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345061,Pruitthealth-Durham,Durham,NC,27705,2025-04-04,3,76,26,105,SNF/NF Dual Certification,No,For Profit - LLC,Yes,PruittHealth,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345063,Harmony Park at Wilson,Wilson,NC,27893,2025-03-13,5,71,7,83,SNF/NF Dual Certification,No,For Profit - LLC,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345066,Davidson Health & Rehab Center,Lexington,NC,27295,2024-07-25,9,57,23,89,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Saber Healthcare,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,Yes
+345070,Durham Nursing & Rehabilitation Center,Durham,NC,27705,2025-01-16,5,63,14,82,SNF/NF Dual Certification,No,For Profit - LLC,Yes,Maximus Healthcare Group,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345072,Carolina Rivers Nursing and Rehabilitation Center,Jacksonville,NC,28540,2024-08-16,8,68,19,95,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Principle LTC,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345077,Sunnybrook Rehabilitation Center,Raleigh,NC,27610,2025-02-20,16,49,22,87,SNF/NF Dual Certification,No,For Profit - LLC,Yes,Southern Healthcare management,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,Yes
+345078,Highland Farms,Black Mountain,NC,28711,2024-08-22,6,8,35,49,SNF/NF - Medicare/Medicaid,No,Non-Profit - Nonprofit Corporation,Yes,"Givens Estates, INC",0,0,0,0,0,0,0,0,0,Yes,Yes,No,Yes,,0,,0,Yes
+345080,The Greens at Viewmont,Hickory,NC,28601,2025-05-01,21,54,16,91,SNF/NF Dual Certification,No,For Profit - LLC,Yes,CCH,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,Yes
+345081,Accordius Health at Rose Manor LLC,Durham,NC,27704,2025-05-08,6,60,20,86,SNF/NF Dual Certification,No,For Profit - LLC,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345083,Hilltop Health and Rehabilitation,Rutherfordton,NC,28139,2025-01-09,4,64,3,71,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Ascent Healthcare Management,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345088,Trinity Glen,Winston-Salem,NC,27101,2025-01-24,13,81,13,107,SNF/NF Dual Certification,No,Non-Profit - Nonprofit Corporation,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345089,Walnut Cove Health and Rehabilitation,Walnut Cove,NC,27052,2024-07-15,5,72,4,81,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Avardis,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345090,Westchester Manor at Providence Place,High Point,NC,27262,2024-05-23,13,87,19,119,SNF/NF - Medicare/Medicaid,No,Non-Profit - Nonprofit Corporation,Yes,Everyage,0,22,0,0,0,0,0,0,0,Yes,No,No,Yes,,0,,0,Yes
+345091,Edgewood Place at the Village at Brookwood,Burlington,NC,27215,2024-05-10,2,0,16,18,SNF/NF - Medicare/Medicaid,No,Non-Profit - Nonprofit Corporation,Yes,kintura,0,0,0,0,0,0,0,0,0,Yes,No,No,Yes,,0,,0,No
+345092,Willow Valley Center for Nursing and Rehabilitation,Winston-Salem,NC,27104,2024-07-02,14,174,30,218,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Alliance Health Group,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345093,Maryfield Nursing Home,High Point,NC,27260,2025-01-31,2,35,78,115,SNF/NF Dual Certification,No,Non-Profit - Nonprofit Corporation,No,,0,0,0,0,0,0,0,0,0,Yes,Yes,No,Yes,,0,,0,No
+345095,Chatham Nursing & Rehabilitation,Elkin,NC,28621,2024-11-21,10,61,22,93,SNF/NF Dual Certification,No,For Profit - Corporation,Yes,Century Care Management,0,0,0,0,0,0,0,0,0,Yes,Yes,No,No,,0,,0,No
+345096,Huntersville Oaks,Huntersville,NC,28078,2025-03-14,16,47,27,90,SNF/NF Dual Certification,No,Non-Profit - Nonprofit Corporation,Yes,"AHSNF, Inc",0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345097,Jesse Helms Nursing Center,Monroe,NC,28111,2024-05-09,17,22,25,64,SNF/NF - Medicare/Medicaid,No,Non-Profit - Nonprofit Corporation,Yes,"AHSNF,  INC",1,1,1,0,1,1,0,0,0,Yes,No,No,No,,0,,0,No
+345102,Maggie Valley Nursing and Rehabilitation,Maggie Valley,NC,28751,2025-01-14,6,58,33,97,SNF/NF Dual Certification,No,For Profit - LLC,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345103,Matthews Health & Rehab Center,Matthews,NC,28105,2025-02-07,6,68,49,123,SNF/NF Dual Certification,No,For Profit - Corporation,No,,2,14,4,0,0,6,0,0,0,Yes,Yes,No,No,,0,,0,No
+345104,Zebulon Rehabilitation Center,Zebulon,NC,27597,2024-06-27,20,29,2,51,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Southern Healthcare Management,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345106,Trinity Ridge,Hickory,NC,28602,2025-03-27,120,0,0,120,SNF/NF Dual Certification,No,Non-Profit - Nonprofit Corporation,Yes,Lutheran Services Carolinas,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345109,Trinity Place,Albemarle,NC,28001,2024-10-10,6,26,39,71,SNF/NF - Medicare/Medicaid,No,Non-Profit - Nonprofit Corporation,Yes,Lutheran Services of the Carolinas,0,10,0,0,0,9,0,0,0,Yes,No,No,No,,0,,0,Yes
+345110,Autumn Care of Waynesville,Waynesville,NC,28786,2025-05-22,16,52,19,87,SNF/NF Dual Certification,No,For Profit - LLC,Yes,Saber Healthcare Group,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345111,Penick Village,Southern Pines,NC,28387,2025-01-23,3,4,17,24,SNF/NF Distinct Part,No,Non-Profit - Other Nonprofit,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,Yes,,0,,0,No
+345113,Willow Creek Nursing and Rehabilitation Center,Goldsboro,NC,27534,2024-12-06,27,116,17,160,SNF/NF Dual Certification,No,For Profit - Corporation,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345115,Salisbury Rehabilitation and Nursing Center,Salisbury,NC,28144,2024-09-27,7,85,15,107,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Twin Pines,2,0,0,0,0,11,0,0,0,Yes,No,No,No,,0,,0,No
+345116,Piedmont Hills Center for Nursing and Rehab,Greensboro,NC,27407,2024-12-05,8,84,29,121,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Alliance Health Group,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345119,Northchase Nursing and Rehabilitation Center,Wilmington,NC,28405,2024-05-17,29,86,10,125,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Principle LTC,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345123,Carolina Village Inc,Hendersonville,NC,28792,2025-01-24,12,0,35,47,Skilled Nursing Facility (SNF) - Medicare Participation,No,Non-Profit - Nonprofit Corporation,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,Yes,,0,,0,No
+345124,PruittHealth-Elkin,Elkin,NC,28621,2025-06-05,23,56,7,86,SNF/NF Dual Certification,No,For Profit - Corporation,Yes,PruittHealth,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345126,Mount Olive Center,Mount Olive,NC,28365,2024-06-27,6,105,17,128,SNF/NF Dual Certification,No,For Profit - LLC,No,,0,10,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345127,White Oak Manor - Tryon,Tryon,NC,28782,2024-07-10,6,39,19,64,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,NHC,0,0,0,0,0,0,0,0,0,Yes,Yes,No,Yes,,0,,0,No
+345129,Davie Nursing and Rehabilitation Center,Mocksville,NC,27028,2024-08-09,21,63,3,87,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Saber Healthcare,0,0,0,0,0,0,0,0,0,Yes,Yes,No,No,,0,,0,No
+345130,Accordius Health at Concord,Concord,NC,28025,2024-12-11,1,88,17,106,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Twin Pines,0,43,6,0,5,8,0,20,0,Yes,No,No,No,,0,,0,No
+345131,Cedar Hills Center for Nursing and Rehabilitation,Clemmons,NC,27012,2024-11-08,19,57,11,87,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Alliance Health Group,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345132,Greenhaven Health and Rehabilitation Center,Greensboro,NC,27406,2024-03-14,1,66,35,102,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Principle LTC,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345133,Ridge Valley Center for Nursing and Rehabilitation,Wilkesboro,NC,28697,2024-09-11,5,55,20,80,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Alliance Health Group,0,0,0,0,0,0,0,0,0,Yes,Yes,No,No,,0,,0,No
+345134,Pelican Health Randolph LLC,Charlotte,NC,28211,2024-06-27,8,58,15,81,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Twin Pines,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345137,The Lodge at Rocky Mount Health and Rehabilitation,Rocky Mount,NC,27804,2025-02-12,100,0,15,115,SNF/NF Dual Certification,No,For Profit - LLC,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345138,Lenoir Health and Rehabilitation Center,Lenoir,NC,28645,2024-08-08,5,88,22,115,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Medical Facilities of America,0,0,0,0,0,0,0,0,0,Yes,Yes,No,No,,0,,0,No
+345140,Piedmont Health & Rehab Center,Salisbury,NC,28145,2024-07-23,2,4,37,43,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Saber Healthcare Group,2,1,3,0,3,6,0,0,0,Yes,No,No,No,,0,,0,No
+345142,University Place Nursing and Rehabilitation Center,Charlotte,NC,28262,2024-03-13,2,129,37,168,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Principle,0,38,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345143,Siler City Center,Siler City,NC,27344,2024-11-07,7,100,25,132,SNF/NF Dual Certification,No,For Profit - LLC,Yes,Genesis,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345144,Pine Ridge Health and Rehabilitation Center,Thomasville,NC,27360,2025-06-05,7,69,13,89,SNF/NF Dual Certification,No,For Profit - Corporation,Yes,Principle Ltc,0,29,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345145,The Carrolton of Williamston,Williamston,NC,27892,2024-03-13,6,84,24,114,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,No,,0,25,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345146,Bethany Woods Nursing and Rehabilitation Center,Albemarle,NC,28002,2024-12-19,3,77,14,94,SNF/NF Dual Certification,No,For Profit - Corporation,Yes,Principle LTC,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,Yes
+345148,Friends Homes at Guilford,Greensboro,NC,27410,2024-10-24,2,9,53,64,SNF/NF - Medicare/Medicaid,No,Non-Profit - Nonprofit Corporation,No,,0,12,0,0,0,0,0,0,0,Yes,No,No,Yes,,0,,0,No
+345149,Mill Creek Center for Nursing and Rehabilitation,Winston-Salem,NC,27106,2025-04-14,23,29,4,56,SNF/NF Dual Certification,No,For Profit - LLC,Yes,Alliance Health Group,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345150,Kenansville Rehabilitation and Healthcare Center,Kenansville,NC,28349,2025-06-16,8,48,28,84,SNF/NF Dual Certification,No,For Profit - LLC,Yes,Yad Healthcare,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,Yes
+345151,White Oak Manor-Kings Mountain,Kings Mountain,NC,28086,2024-05-02,4,104,31,139,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,National Healthcare Corporation,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345152,Trinity Village,Hickory,NC,28601,2025-01-15,24,42,30,96,SNF/NF - Medicare/Medicaid,No,Non-Profit - Nonprofit Corporation,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,Yes
+345153,Trinity Oaks,Salisbury,NC,28144,2025-02-24,6,46,55,107,SNF/NF Dual Certification,No,Non-Profit - Nonprofit Corporation,Yes,Lutheran Services of Carolinas,0,14,0,0,0,5,0,0,0,Yes,No,No,Yes,,0,,0,No
+345155,Alpine Health and Rehabilitation of Asheboro,Asheboro,NC,27203,2025-04-02,9,110,9,128,SNF/NF Dual Certification,No,For Profit - Individual,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345156,Harmony Hall Nursing and Rehabilitation Center,Kinston,NC,28501,2024-10-30,5,80,13,98,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Principle LTC,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345159,Lincolnton Rehabilitation Center,Lincolnton,NC,28092,2024-04-13,9,76,20,105,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Southern Healthcare Management,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345160,Davis Health Care Center,Wilmington,NC,28411,2024-02-08,8,54,23,85,SNF/NF Distinct Part,No,Non-Profit - Nonprofit Corporation,No,,0,14,0,0,0,16,0,0,0,Yes,No,No,No,,0,,0,No
+345161,Abernathy Laurels,Newton,NC,28658,2024-07-11,7,67,85,159,SNF/NF - Medicare/Medicaid,No,Non-Profit - Nonprofit Corporation,Yes,EveryAge,0,0,0,0,0,0,0,0,0,Yes,No,No,Yes,,0,,0,Yes
+345162,Accordius Health at Gastonia,Gastonia,NC,28052,2025-01-17,0,61,16,77,SNF/NF Dual Certification,No,For Profit - Corporation,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,Yes
+345163,Glenbridge Health And Rehabilitation,Boone,NC,28607,2025-02-06,18,61,29,108,SNF/NF Dual Certification,No,For Profit - LLC,Yes,Brighton Healthcare,0,0,0,0,0,0,0,0,0,Yes,Yes,No,No,,0,,0,No
+345164,Chowan River Nursing and Rehabilitation Center,Edenton,NC,27932,2025-04-02,5,52,9,66,SNF/NF Dual Certification,No,For Profit - LLC,Yes,Principle LTC,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345165,Autumn Care of Marion,Marion,NC,28752,2024-12-05,26,76,5,107,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Saber Healthcare,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345166,Stokes County Nursing Home,Danbury,NC,27016,2024-08-12,0,33,5,38,SNF/NF - Medicare/Medicaid,Yes,For Profit - LLC,Yes,Lifebrite Hospital Group,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345167,Yadkin Nursing and Care Center,Yadkinville,NC,27055,2024-12-19,4,56,47,107,SNF/NF Dual Certification,No,For Profit - LLC,Yes,Liberty Health and Rehab,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345168,Macgregor Downs Health Center by Harborview,Greenville,NC,27834,2025-02-13,47,73,23,143,SNF/NF Dual Certification,No,For Profit - LLC,Yes,Harborview Health Systems,0,0,0,0,0,0,0,0,0,Yes,Yes,No,No,,0,,0,No
+345169,The Greens at Gastonia,Gastonia,NC,28054,2025-05-05,24,65,8,97,SNF/NF Dual Certification,No,For Profit - Corporation,Yes,CCH,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345170,Crystal Bluffs Rehabilitation and Health Care Center,Morehead City,NC,28557,2024-09-18,23,41,24,88,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Century Care Management,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345171,White Oak Manor-Shelby,Shelby,NC,28150,2024-05-23,7,59,35,101,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,National Healthcare Corporation,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345172,Meridian Center,High Point,NC,27262,2024-05-17,22,146,0,168,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Genesis Health Care,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345173,Emerald Health & Rehab Center,Lillington,NC,27546,2024-05-28,7,65,19,91,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Saber Healthcare,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345174,Elevate Health and Rehabilitation,Asheville,NC,28801,2024-08-07,9,67,23,99,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345175,Smithfield Manor Rehabilitation and Healthcare Center,Smithfield,NC,27577,2025-01-24,28,79,32,139,SNF/NF Distinct Part,No,For Profit - Corporation,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345177,The Greens at Pinehurst Rehabilitation & Living Center,Pinehurst,NC,28374,2024-12-05,6,49,26,81,SNF/NF Dual Certification,No,For Profit - Corporation,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345179,Accordius Health at Mooresville,Mooresville,NC,28115,2024-06-13,11,53,17,81,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Twin Pines Healthcare,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345180,Wesley Pines Retirement Community,Lumberton,NC,28358,2024-11-14,6,32,20,58,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,The United Methodist Retirement Homes,0,0,0,0,0,0,0,0,0,Yes,No,No,Yes,,0,,0,No
+345181,Greenville Health and Rehabilitation Center,Greenville,NC,27834,2024-05-31,29,48,39,116,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Medical Facilities of America,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345182,Pruitthealth-Crystal Coast,Beaufort,NC,28516,2024-10-03,12,54,13,79,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Pruitt Health,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345183,Cabarrus Health and Rehabilitation Center,Concord,NC,28025,2024-04-18,17,92,6,115,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Medical Facilities of America,2,12,1,0,4,5,0,0,0,Yes,No,No,No,,0,,0,No
+345184,Laurel Park Rehabilitation and Healthcare Center,Elizabeth City,NC,27909,2025-05-21,16,58,14,88,SNF/NF Dual Certification,No,For Profit - Corporation,Yes,Yad Healthcare,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345185,Premier Living and Rehab Center,Lake Waccamaw,NC,28450,2024-07-02,4,46,13,63,SNF/NF - Medicare/Medicaid,No,For Profit - Individual,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345186,Five Oaks Rehabilitation and Care Center,Concord,NC,28027,2025-03-05,20,117,15,152,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,VenzaCare,0,0,0,0,0,0,0,0,0,Yes,Yes,No,No,,0,,0,No
+345187,Grace Heights Health & Rehabilitation,Morganton,NC,28655,2024-09-11,10,47,39,96,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Sanstone,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345190,Murphy Rehabilitation & Nursing,Murphy,NC,28906,2024-12-19,22,63,31,116,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Century Care Management,0,14,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,Yes
+345191,Surry Community Health Center by Harborview,Mount Airy,NC,27030,2025-06-11,12,70,26,108,SNF/NF Dual Certification,No,For Profit - Corporation,Yes,Harborview,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345192,Longleaf Neuro-Medical Treatment Center,Wilson,NC,27893,2025-06-18,0,78,9,87,SNF/NF Dual Certification,No,Government - State,Yes,State of North Carolina,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345193,Mountain View Manor Nursing Center,Bryson City,NC,28713,2025-04-17,8,34,38,80,SNF/NF Dual Certification,No,For Profit - LLC,Yes,Diversicare,0,26,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345194,Glenflora,Lumberton,NC,28360,2024-12-12,5,35,7,47,SNF/NF - Medicare/Medicaid,No,Non-Profit - Nonprofit Corporation,Yes,Lutheran Services of the Carolinas,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345195,Edgecombe Health Center by Harborview,Tarboro,NC,27886,2025-03-13,30,91,17,138,SNF/NF Dual Certification,No,For Profit - Individual,Yes,Harborwiew Health Systems,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345196,Mountain Vista Health Park,Denton,NC,27239,2025-05-01,5,43,6,54,SNF/NF Dual Certification,No,Non-Profit - Nonprofit Corporation,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,Yes
+345197,Willow Ridge Of NC,Rutherfordton,NC,28139,2025-02-04,4,87,22,113,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,CCH Healthcare,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345198,Aston Park Health Care Center,Asheville,NC,28806,2025-02-20,10,53,35,98,SNF/NF Dual Certification,No,Non-Profit - Nonprofit Corporation,Yes,Lutheran Services Carolina,0,32,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,Yes
+345199,Carol Woods,Chapel Hill,NC,27514,2025-06-26,2,0,15,17,SNF (Medicare) Only,No,Non-Profit - Nonprofit Corporation,No,,0,0,0,0,0,0,0,0,0,Yes,Yes,No,Yes,,0,,0,No
+345201,Pelican Health at Charlotte,Charlotte,NC,28204,2025-02-03,4,63,11,78,SNF/NF Dual Certification,No,For Profit - Corporation,Yes,Twin Pines Healthcare,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345202,Capital Nursing and Rehabilitation Center,Raleigh,NC,27610,2024-07-18,9,71,20,100,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345203,Life Care Center of Banner Elk,Banner Elk,NC,28604,2024-08-21,6,35,25,66,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Life Care Centers of America Inc.,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345204,StoneCreek Health and Rehabilitation,Asheville,NC,28801,2025-04-14,10,54,26,90,SNF/NF Dual Certification,No,For Profit - Corporation,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345205,Westwood Hills Nursing and Rehabilitation Center,Wilkesboro,NC,28697,2024-08-21,14,86,18,118,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Principle LTC,0,30,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345206,Madison Health and Rehabilitation,Mars Hill,NC,28754,2024-11-15,6,45,32,83,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,SanStone Health and Rehabilitation,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345207,Liberty Commons Nursing and Rehabilitation Center of Columbus County,Whiteville,NC,28472,2024-07-26,16,60,18,94,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Liberty Healthcare,0,20,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345208,Sapphire Ridge Health and Rehabilitation,Brevard,NC,28712,2025-03-07,11,72,14,97,SNF/NF Distinct Part,No,For Profit - LLC,Yes,Ascent Healthcare Management,0,39,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345209,Brookridge Retirement Community,Winston-Salem,NC,27106,2024-05-09,7,22,20,49,SNF/NF - Medicare/Medicaid,No,Non-Profit - Nonprofit Corporation,Yes,Thrivemore,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345210,Elizabethtown Healthcare & Rehab Center,Elizabethtown,NC,28337,2024-09-26,10,57,11,78,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Liberty Health,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345211,Riverpoint Crest Nursing and Rehabilitation Center,New Bern,NC,28563,2024-09-26,7,74,5,86,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Principle LTC,0,22,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345212,Bethesda Health Care Facility,Eastover,NC,28301,2024-11-01,6,51,24,81,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,No,,0,20,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345213,Lillington Health and Rehabilitation Center,Lillington,NC,27546,2024-04-26,16,80,24,120,SNF/NF Dual Certification,No,For Profit - Corporation,Yes,Medical Facilities of America,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345215,River Trace Nursing and Rehabilitation Center,Washington,NC,27889,2024-07-26,12,80,32,124,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Principle LTC,0,29,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345216,Westfield Rehabilitation and Health Center,Sanford,NC,27330,2024-08-23,8,50,21,79,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Liberty Healthcare,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345217,Premier Nursing and Rehabilitation Center,Jacksonville,NC,28546,2025-04-24,16,79,46,141,SNF/NF Dual Certification,No,For Profit - LLC,Yes,Principle LTC,0,22,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345218,Mary Gran Nursing Center,Clinton,NC,28329,2024-08-12,10,91,6,107,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Liberty Health and Rehab,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345219,Magnolia Lane Nursing and Rehabilitation Center,Morganton,NC,28655,2024-09-25,9,44,14,67,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Principle LTC,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345221,The Greens at Weaverville,Weaverville,NC,28787,2024-06-12,12,59,22,93,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,CCH Healthcare,0,22,0,0,0,0,0,0,0,Yes,Yes,No,No,,0,,0,No
+345222,Autumn Care of Drexel,Morganton,NC,28655,2025-04-24,12,52,24,88,SNF/NF Dual Certification,No,For Profit - Corporation,No,,0,0,1,0,0,9,0,0,0,Yes,No,No,No,,0,,0,No
+345223,Valley Hill Health & Rehab Center,Hendersonville,NC,28739,2024-04-10,5,66,8,79,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Saber Healthcare,0,16,1,0,0,5,0,0,0,Yes,No,No,No,,0,,0,No
+345225,Signature Healthcare of Chapel Hill,Chapel Hill,NC,27514,2024-04-11,15,55,25,95,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Signature Healthcare,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345226,Peak Resources-Outer Banks,Nags Head,NC,27959,2025-03-27,16,60,18,94,SNF/NF Dual Certification,No,For Profit - Corporation,Yes,Peak Resources Inc,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345227,Cypress Valley Center for Nursing and Rehabilitation,REIDSVILLE,NC,27320,2025-06-05,7,73,18,98,SNF/NF Dual Certification,No,For Profit - Corporation,Yes,Alliance Health Group,0,0,0,0,0,0,0,0,0,Yes,Yes,No,No,,0,,0,No
+345228,Ridgewood Living & Rehabilitation Center,Washington,NC,27889,2024-06-12,120,84,13,217,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,CCH Healthcare,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345229,Peak Resources- Shelby,GROVER,NC,28073,2024-11-21,5,48,26,79,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,Yes
+345232,The Greens at Hickory,Hickory,NC,28602,2024-11-15,11,81,21,113,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,No,,0,23,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345233,Deer Park Health and Rehabilitation,Nebo,NC,28761,2024-04-25,11,91,25,127,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Brighton Healthcare,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345234,Harborview Lumberton,Lumberton,NC,28358,2025-04-10,6,79,26,111,SNF/NF Dual Certification,No,For Profit - LLC,Yes,Harborview Health Systems,0,26,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345235,Twin Lakes Community,Burlington,NC,27215,2025-01-09,13,27,59,99,SNF/NF Distinct Part,No,Non-Profit - Nonprofit Corporation,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,Yes,,0,,0,No
+345236,August Healthcare at Wilmington,Wilmington,NC,28401,2025-05-15,16,55,22,93,SNF/NF Dual Certification,No,For Profit - Corporation,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345237,Barbour Court Nursing and Rehabilitation Center,Smithfield,NC,27577,2024-11-15,17,95,24,136,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Principle LTC,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345238,White Oak Manor - Charlotte,Charlotte,NC,28211,2025-03-27,6,81,65,152,SNF/NF Dual Certification,No,For Profit - LLC,Yes,National Healthcare Corporation,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345240,Warren Hills Nursing Center,Warrenton,NC,27589,2024-11-21,4,52,28,84,SNF/NF Dual Certification,No,For Profit - Corporation,Yes,Liberty Healthcare,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345241,Eden Rehabilitation and Healthcare Center,Eden,NC,27288,2024-11-15,9,56,37,102,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Yad Healthcare,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345243,Accordius Health at Charlotte,Charlotte,NC,28212,2025-04-24,8,57,34,99,SNF/NF Dual Certification,No,For Profit - Corporation,Yes,Twin Pines Healthcare,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345246,Hickory Falls Health and Rehabilitation,Granite Falls,NC,28630,2025-05-21,20,74,15,109,SNF/NF Dual Certification,No,For Profit - LLC,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345247,Valley Nursing and Rehabilitation Center,Taylorsville,NC,28681,2024-10-08,12,62,34,108,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,CCH Healthcare,0,0,0,0,0,0,0,49,0,Yes,No,No,No,,0,,0,No
+345249,UNC Rockingham Rehab & Nursing Care Center,Eden,NC,27288,2024-05-22,2,33,26,61,SNF/NF - Medicare/Medicaid,No,Non-Profit - Nonprofit Corporation,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345250,The Greens at Lincolnton,Lincolnton,NC,28093,2024-11-07,18,66,21,105,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,CCH Healthcare,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345252,Warsaw Rehabilitation and Healthcare Center,Warsaw,NC,28398,2025-03-21,3,64,14,81,SNF/NF Dual Certification,No,For Profit - LLC,Yes,Kissito Healthcare,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345253,The Lodge at Mills River,Mills River,NC,28759,2025-06-03,20,8,6,34,SNF/NF Dual Certification,No,For Profit - LLC,Yes,Sanstone Health and Rehab,0,0,0,0,0,3,0,0,0,Yes,No,No,No,,0,,0,No
+345254,Monroe Rehabilitation Center,Monroe,NC,28112,2025-01-08,19,82,13,114,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Southern Healthcare Management,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345255,Carolina Care Health and Rehabilitation,Cherryville,NC,28021,2025-02-27,16,67,16,99,SNF/NF Dual Certification,No,For Profit - LLC,No,,0,0,0,0,0,0,0,0,0,No,No,No,No,,0,,0,No
+345258,Kannapolis Health and Rehabilitation,Kannapolis,NC,28083,2025-01-16,1,62,17,80,SNF/NF Dual Certification,No,For Profit - Corporation,Yes,Consulate Health Care,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345260,Rocky Mount Rehabilitation Center,Rocky Mount,NC,27804,2024-08-01,14,73,22,109,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Southern Healthcare Management,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345261,Lotus Village Center for Nursing and Rehabilitation,Sparta,NC,28675,2024-02-22,2,55,17,74,SNF/NF Dual Certification,No,For Profit - LLC,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345262,Hertford Rehabilitation and Healthcare Center,Hertford,NC,27944,2024-05-16,1,56,7,64,SNF/NF Dual Certification,No,For Profit - LLC,Yes,Yad Healthcare,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345263,Macon Valley Nursing and Rehabilitation Center,Franklin,NC,28734,2025-06-05,16,49,6,71,SNF/NF Dual Certification,No,For Profit - Corporation,Yes,Principle LTC,0,18,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,Yes
+345264,Stanley Total Living Center,Stanley,NC,28164,2024-10-25,22,44,29,95,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,No,,0,20,0,0,0,0,0,0,0,Yes,No,No,Yes,,0,,0,No
+345265,Yanceyville Rehabilitation and Healthcare Center,Yanceyville,NC,27379,2025-02-27,16,98,30,144,SNF/NF Dual Certification,No,For Profit - LLC,Yes,Yad Healthcare,0,40,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345266,The Carrolton of Plymouth,Plymouth,NC,27962,2025-03-27,5,65,11,81,SNF/NF Dual Certification,No,For Profit - LLC,Yes,Carrolton Facilities Management,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345267,Bladen East Health And Rehab,Elizabethtown,NC,28337,2025-03-06,3,51,11,65,SNF/NF Dual Certification,No,For Profit - LLC,Yes,Hedgehog Healthcare Associates,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345268,Autumn Care of Marshville,Marshville,NC,28103,2024-11-20,13,61,10,84,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Saber Health Care,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345269,Autumn Care of Salisbury,Salisbury,NC,28146,2025-03-06,17,58,15,90,SNF/NF Dual Certification,No,For Profit - Corporation,Yes,Saber Health Care,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345270,The Greens at Spruce Pines,Spruce Pine,NC,28777,2025-02-11,10,67,25,102,SNF/NF Dual Certification,No,For Profit - Corporation,No,,0,22,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345273,Kindred Hospital East Greensboro,Greensboro,NC,27406,2024-09-18,9,8,3,20,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,No,,0,0,0,0,0,0,0,23,0,Yes,No,No,No,,0,,0,No
+345277,Asheboro Rehabilitation and Healthcare Center,Asheboro,NC,27203,2024-09-06,7,76,11,94,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Yad Healthcare,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345278,NORTHERN REGIONAL HOSPITAL,MOUNT AIRY,NC,27030,2025-03-28,6,16,10,32,SNF/NF Dual Certification,Yes,Government - Hospital District,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,Yes
+345279,The Carrolton of Nash,Rocky Mount,NC,27804,2024-10-24,13,92,18,123,SNF/NF - Medicare/Medicaid,No,For Profit - Partnership,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345280,Autumn Care of Raeford,Raeford,NC,28376,2024-10-18,1,83,38,122,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Autumn Corporation,0,34,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345281,Stanly Manor,Albemarle,NC,28001,2024-10-24,4,40,5,49,SNF/NF - Medicare/Medicaid,No,Non-Profit - Nonprofit Corporation,Yes,"AHSNF, Inc",0,1,2,0,3,3,0,0,0,Yes,No,No,No,,0,,0,No
+345282,Cleveland Pines,Shelby,NC,28150,2024-07-18,10,76,15,101,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,"Atrium Health, AHSNF",0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345283,The Citadel Mooresville,Mooresville,NC,28115,2025-05-15,11,63,27,101,SNF/NF Dual Certification,No,For Profit - LLC,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345284,The Oaks,Winston-Salem,NC,27103,2024-07-24,1,68,42,111,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,No,,0,0,0,0,0,0,0,0,0,Yes,Yes,No,No,,0,,0,No
+345285,Orchard Valley Health and Rehabilitation,Hendersonville,NC,28791,2024-12-06,9,80,14,103,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Ascent Healthcare Managment,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345288,"Compass Healthcare and Rehab Rowan, LLC",Spencer,NC,28159,2024-08-21,5,44,9,58,SNF/NF - Medicare/Medicaid,No,For Profit - Individual,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345289,Currituck Health & Rehab Center,Barco,NC,27917,2024-08-30,6,52,9,67,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Saber Healthcare,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345291,Oxford Health and Rehabilitation Center,Oxford,NC,27565,2024-07-03,20,104,35,159,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Medical Facilities of America,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345292,Grantsbrook Nursing and Rehabilitation Center,Grantsboro,NC,28529,2025-05-12,12,59,6,77,SNF/NF Dual Certification,No,For Profit - LLC,Yes,River Neuse Group LLC,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345293,Richmond Pines Healthcare and Rehabilitation Center,Hamlet,NC,28345,2024-09-18,14,65,10,89,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Principle LTC,0,16,0,0,0,0,0,0,0,Yes,Yes,No,No,,0,,0,No
+345294,Autumn Care of Shallotte,Shallotte,NC,28459,2024-08-29,14,61,22,97,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Saber Healthcare,0,0,0,0,0,0,0,0,0,Yes,No,No,No,2025-07-21,0,,0,No
+345296,"Margate Health and Rehabilitation, LLC",Jefferson,NC,28640,2024-11-20,15,64,38,117,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Sanstone,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345297,Scotia Village - SNF,Laurinburg,NC,28352,2024-11-07,3,26,27,56,SNF/NF - Medicare/Medicaid,No,Non-Profit - Nonprofit Corporation,Yes,Kintura,0,10,0,0,0,0,0,0,0,Yes,No,No,Yes,,0,,0,No
+345298,The Laurels of Pender,Burgaw,NC,28425,2024-09-20,12,52,21,85,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345301,White Oak Manor - Burlington,Burlington,NC,27217,2024-08-01,1,72,41,114,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,National Healthcare Corp,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345302,Vero Health & Rehab of Sylva,Sylva,NC,28779,2024-07-30,4,64,12,80,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345303,The Laurels Of Greentree Ridge,Asheville,NC,28803,2025-05-07,13,43,25,81,SNF/NF Dual Certification,No,For Profit - Corporation,Yes,Laurel Healthcare,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345304,"Accordius Health at Midwood, LLC",Charlotte,NC,28205,2024-05-07,2,61,1,64,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345305,Smoky Ridge Health and Rehabilitation,Burnsville,NC,28714,2025-03-20,7,82,6,95,SNF/NF Dual Certification,No,For Profit - LLC,Yes,BrightonHealthcare LLC,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345306,IREDELL MEMORIAL HOSPITAL INC,STATESVILLE,NC,28677,2025-01-09,26,7,1,34,SNF/NF - Medicare/Medicaid,Yes,Non-Profit - Other Nonprofit,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345307,Juniper Gardens Center for Nursing and Rehabilitation,Gastonia,NC,28056,2024-08-27,7,19,19,45,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Alliance Health Group,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345309,Liberty Commons Nursing and Rehabilitation Center of Halifax County,Weldon,NC,27890,2024-10-09,8,32,5,45,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Liberty Healthcare,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,Yes
+345310,Piedmont Crossing,Thomasville,NC,27360,2025-02-14,104,0,0,104,SNF/NF Distinct Part,No,Non-Profit - Nonprofit Corporation,Yes,EveryAge,0,0,0,0,0,0,0,0,0,Yes,No,No,Yes,,0,,0,Yes
+345311,Roxboro Healthcare & Rehab Center,Roxboro,NC,27573,2024-08-15,2,53,40,95,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Liberty Healthcare,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345312,The Greens at Hendersonville,Hendersonville,NC,28791,2024-11-01,5,82,17,104,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,CCH Health Care,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345313,Northampton Nursing and Rehabilitation Center,Jackson,NC,27845,2025-01-24,7,61,11,79,SNF/NF Dual Certification,No,For Profit - LLC,Yes,"Principle, LTC",0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345314,"Fair Haven of Forest City, LLC",Forest City,NC,28043,2025-02-13,6,59,16,81,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Fair Haven Home Inc.,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345315,The Carrolton of Lumberton,Lumberton,NC,28358,2024-11-21,7,65,12,84,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Carrolton Facility Management,0,0,0,0,0,0,0,0,0,Yes,Yes,No,No,,0,,0,No
+345316,Senior Citizens Home,Henderson,NC,27537,2024-12-05,4,28,17,49,SNF/NF Dual Certification,No,For Profit - LLC,Yes,Maximus Healthcare,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345317,Clayton Rehabilitation and Healthcare Center,Clayton,NC,27520,2024-11-27,8,56,25,89,SNF/NF - Medicare/Medicaid,No,For Profit - Individual,Yes,Yad Healthcare,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345318,Brunswick Cove Nursing Center,Winnabow,NC,28479,2024-07-25,17,86,26,129,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Hedgehog Healthcare Associates,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345319,Elderberry Health Care,Marshall,NC,28753,2024-08-28,7,55,13,75,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,"Wilkinson Care Center, Inc",0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345321,Kerr Lake Nursing and Rehabilitation Center,Henderson,NC,27536,2024-11-06,22,44,5,71,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Principle LTC,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345322,The Laurels of Hendersonville,Hendersonville,NC,28792,2025-03-20,0,100,20,120,SNF/NF Dual Certification,No,For Profit - Corporation,Yes,Ciena Healthcare Management,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345323,Wallace Rehabilitation and Healthcare Center,Wallace,NC,28466,2025-02-27,8,54,15,77,SNF/NF Dual Certification,No,For Profit - LLC,Yes,Yad Healthcare,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345325,The Carrolton of Dunn,Dunn,NC,28335,2024-10-08,5,67,16,88,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345326,Willowbrooke Court SC Ctr at Matthews Glen,Matthews,NC,28105,2024-05-30,5,0,3,8,Skilled Nursing Facility (SNF) - Medicare Participation,No,Non-Profit - Nonprofit Corporation,Yes,Acts Retirement Life Communities,0,15,0,0,0,0,0,0,0,Yes,No,No,Yes,,0,,0,No
+345328,Givens Health Center,Asheville,NC,28803,2025-02-06,15,8,31,54,SNF/NF - Medicare/Medicaid,No,Non-Profit - Nonprofit Corporation,Yes,Givens Communities Inc.,0,0,0,0,0,0,0,0,0,Yes,No,No,Yes,,0,,0,Yes
+345329,Hibriten Mountain Nursing and Rehabilitation,Lenoir,NC,28645,2024-12-17,4,55,22,81,SNF/NF - Medicare/Medicaid,No,Non-Profit - Other Nonprofit,Yes,Avardis Health,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345330,The Graybrier Nursing and Retirement Center,Trinity,NC,27370,2024-10-17,10,65,21,96,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345331,Sardis Oaks,Charlotte,NC,28270,2024-09-27,10,46,32,88,SNF/NF - Medicare/Medicaid,No,Non-Profit - Other Nonprofit,Yes,Charlotte/Mecklenburg Hospital Authority (Atrium Health),0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345332,Wilson Healthcare and Rehabilitation Center,Wilson,NC,27893,2025-01-13,6,58,26,90,SNF/NF Dual Certification,No,For Profit - LLC,Yes,Yad Healthcare,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,Yes
+345333,Abbotts Creek Center,Lexington,NC,27295,2024-09-27,22,31,6,59,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Genesis Health Care,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345335,Franklin Oaks Nursing and Rehabilitation Center,Louisburg,NC,27549,2025-05-08,12,108,15,135,SNF/NF Dual Certification,No,For Profit - Corporation,Yes,Eagle Peak LTC,0,0,0,0,0,0,0,0,35,Yes,No,No,No,,0,,0,No
+345336,Signature Healthcare of Roanoke Rapids,Roanoke Rapids,NC,27870,2025-01-08,11,50,19,80,SNF/NF Dual Certification,No,For Profit - LLC,Yes,Signature Healthcare,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345337,"Peak Resources - Alamance, Inc",Graham,NC,27253,2024-10-31,7,66,51,124,SNF/NF Dual Certification,No,For Profit - Corporation,Yes,Peak Resources,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,Yes
+345339,Windsor Rehabilitation and Healthcare Center,Windsor,NC,27983,2024-10-15,9,46,13,68,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Yad Healthcare,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345340,The Greens at Maple Leaf,Statesville,NC,28625,2024-05-15,10,62,16,88,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,CCH Healthcare,0,20,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345341,Silver Bluff,Canton,NC,28716,2024-11-07,13,83,24,120,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Liberty Healthcare,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,Yes
+345342,Big Elm Retirement and Nursing Centers,Kannapolis,NC,28081,2024-07-11,8,38,7,53,SNF/NF - Medicare/Medicaid,No,For Profit - Individual,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345343,Goldsboro Rehabilitation and Healthcare Center,Goldsboro,NC,27534,2024-09-06,33,77,14,124,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,YAD Healthcare,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345344,Camellia Gardens Center for Nursing and Rehab,Henderson,NC,27536,2024-08-29,3,50,3,56,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345345,Accordius Health at Monroe,Monroe,NC,28112,2025-04-10,2,36,0,38,SNF/NF Dual Certification,No,For Profit - LLC,No,,0,11,2,0,3,2,0,0,0,Yes,No,No,No,,0,,0,No
+345348,Whispering Pines Nursing & Rehab Center,Fayetteville,NC,28301,2025-04-17,5,53,6,64,SNF/NF Dual Certification,No,For Profit - Corporation,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,Yes
+345349,Woodbury Wellness Center Inc,Hampstead,NC,28443,2024-07-24,13,68,21,102,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345350,Courtland Terrace,Gastonia,NC,28054,2024-10-31,12,31,31,74,SNF/NF - Medicare/Medicaid,Yes,Non-Profit - Nonprofit Corporation,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345351,Autumn Care of Saluda,Saluda,NC,28773,2025-02-14,7,72,7,86,SNF/NF Dual Certification,No,For Profit - Corporation,Yes,Saber Health Care Group,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345353,Highland House Rehabilitation and Healthcare,Fayetteville,NC,28301,2024-12-19,15,80,2,97,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Liberty Health and Rehabilitation,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345354,Piney Grove Nursing and Rehabilitation Center,Kernersville,NC,27284,2024-10-14,9,72,6,87,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Principle LTC,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345355,Graham Healthcare and Rehabilitation Center,Robbinsville,NC,28771,2024-12-19,7,42,1,50,SNF/NF Dual Certification,No,For Profit - Corporation,Yes,Principle LTC,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,Yes
+345356,Rich Square Nursing & Rehabilitation Center,Rich Square,NC,27869,2024-06-06,5,39,11,55,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Maximus Healthcare Group,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345357,PruittHealth-Neuse,New Bern,NC,28560,2024-09-11,10,55,25,90,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Pruitt Health,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345358,Louisburg Healthcare & Rehabilitation Center,Louisburg,NC,27549,2025-03-06,5,44,35,84,SNF/NF Dual Certification,No,For Profit - LLC,Yes,Liberty Healthcare,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345359,Ahoskie Health and Rehabilitation Center,Ahoskie,NC,27910,2024-09-26,6,82,34,122,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,August,0,21,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345362,The Greens at Cabarrus,Concord,NC,28025,2024-05-23,22,41,8,71,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,CCH Healthcare,2,36,1,0,0,3,0,0,0,Yes,No,No,No,,0,,0,No
+345363,"Compass Healthcare and Rehab Hawfields, Inc.",Mebane,NC,27302,2024-10-10,10,38,40,88,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Compass Healthcare and Rehab,0,0,12,0,0,0,0,0,0,Yes,No,No,No,,0,,0,Yes
+345365,Signature Healthcare of Kinston,Kinston,NC,28501,2024-10-17,8,66,16,90,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Signature Healthcare,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345366,Greendale Forest Nursing and Rehabilitation Center,Snow Hill,NC,28580,2025-03-27,16,79,5,100,SNF/NF Dual Certification,No,For Profit - Corporation,Yes,Principle Long Term Care,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345367,"Liberty Healthcare Services of Golden Years Nursing Center, LLC",Falcon,NC,28342,2024-08-29,2,35,13,50,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Liberty Health,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345369,Rex Rehab & Nursing Care Center,Raleigh,NC,27607,2024-05-17,11,40,47,98,SNF/NF - Medicare/Medicaid,Yes,Government - Hospital District,Yes,UNC Rex Healthcare,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345370,Pinehurst Healthcare & Rehabilitation Center,Pinehurst,NC,28374,2025-01-24,2,56,51,109,SNF/NF Dual Certification,No,For Profit - LLC,Yes,Liberty Health,0,0,0,0,0,0,0,0,0,Yes,Yes,No,No,,0,,0,No
+345371,PruittHealth-Trent,New Bern,NC,28560,2025-02-27,13,69,29,111,SNF/NF Dual Certification,No,For Profit - Corporation,Yes,Pruitthealth,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,Yes
+345372,Wilson Pines Nursing and Rehabilitation Center,Wilson,NC,27893,2025-04-10,18,66,10,94,SNF/NF Dual Certification,No,For Profit - LLC,Yes,Principle Ltc,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,Yes
+345373,Liberty Commons Nursing & Rehab Center of Southport LLC,Southport,NC,28461,2025-05-01,5,27,25,57,SNF/NF Distinct Part,No,For Profit - LLC,Yes,Liberty Health,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345375,Scotland Manor Health and Rehabilitation Center,Scotland Neck,NC,27874,2024-09-11,1,40,14,55,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345376,The Carrolton of Fayetteville,Fayetteville,NC,28306,2024-06-14,2,73,43,118,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345377,East Carolina Health and Rehabilitation Center,Greenville,NC,27834,2024-12-19,11,53,9,73,SNF/NF Dual Certification,No,For Profit - LLC,Yes,Hedgehog Healthcare Associates,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345378,PruittHealth-Rockingham,Rockingham,NC,28379,2025-02-24,3,62,4,69,SNF/NF Dual Certification,No,For Profit - Corporation,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345380,Village Green Health and Rehabilitation,Fayetteville,NC,28304,2025-02-20,45,37,24,106,SNF/NF Distinct Part,No,For Profit - LLC,Yes,Sanstone Health and Rehab,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,Yes
+345381,Village Care of King,King,NC,27021,2024-10-10,10,47,45,102,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Saber Healthcare,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345383,Scottish Pines Rehabilitation and Nursing Center,Laurinburg,NC,28352,2024-10-24,24,82,9,115,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Century Care Management,0,0,0,0,0,0,0,0,0,Yes,Yes,No,No,,0,,0,No
+345384,PruittHealth-Farmville,Farmville,NC,27828,2024-08-08,2,38,10,50,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Pruitt Health,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345385,Cardinal Healthcare and Rehabilitation,Lincolnton,NC,28092,2025-05-08,11,34,17,62,SNF/NF Dual Certification,No,For Profit - LLC,Yes,Synergy,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345386,WILKES REGIONAL MEDICAL CTR SN,NORTH WILKESBORO,NC,28659,2025-04-23,2,1,5,8,SNF/NF Dual Certification,Yes,Non-Profit - Other Nonprofit,No,,0,0,0,0,0,0,0,0,0,No,No,No,No,,0,,0,No
+345388,Crown Haven Health and Rehabilitation,Charlotte,NC,28213,2024-02-12,1,84,0,85,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345389,The Laurels of Forest Glenn,Garner,NC,27529,2025-05-12,6,79,20,105,SNF/NF Dual Certification,No,For Profit - LLC,Yes,Laurels Healthcare,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345390,Countryside,Stokesdale,NC,27357,2025-05-02,8,32,14,54,SNF/NF Dual Certification,No,For Profit - LLC,No,,0,0,0,0,0,0,0,0,0,Yes,Yes,No,No,,0,,0,No
+345391,Heartland Living & Rehab at the Moses H Cone Memorial Hospital,Greensboro,NC,27401,2025-02-26,0,52,27,79,SNF/NF Dual Certification,No,For Profit - Corporation,Yes,Century Care Management,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345392,Wadesboro Health & Rehab Center,Wadesboro,NC,28170,2025-05-07,4,48,2,54,SNF/NF Dual Certification,No,For Profit - Corporation,Yes,Saber Healthcare Group,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345393,Pisgah Manor Health Care Center,Candler,NC,28715,2025-04-01,12,54,38,104,SNF/NF Dual Certification,No,For Profit - Corporation,Yes,Liberty Health,0,0,0,0,0,0,0,0,0,Yes,No,No,Yes,,0,,0,Yes
+345394,Brook Stone Living Center,Pollocksville,NC,28573,2025-06-04,6,38,14,58,SNF/NF Dual Certification,No,For Profit - Corporation,Yes,Hedgehog Healthcare Associates,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345395,Peak Resources-Cherryville,Cherryville,NC,28021,2025-06-05,18,32,10,60,SNF/NF Dual Certification,No,For Profit - Corporation,Yes,Peak Resources Inc,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345396,Smoky Mountain Health and Rehabilitation Center,Waynesville,NC,28785,2025-02-05,11,25,5,41,SNF/NF Dual Certification,No,For Profit - Corporation,Yes,Principle LTC,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345397,Shoreland Health Care and Retirement Center Inc,Whiteville,NC,28472,2024-12-19,5,58,14,77,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Liberty Health & Rehab,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345400,Skyland Care Center,Sylva,NC,28779,2024-11-21,9,57,23,89,SNF/NF Distinct Part,No,For Profit - Corporation,No,,0,0,0,0,0,0,0,0,0,Yes,Yes,No,No,,0,,0,No
+345401,Wilkesboro Health and Rehabilitation,North Wilkesboro,NC,28659,2024-09-11,11,60,25,96,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Sanstone,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345403,Highfield Nursing and Rehabilitation,Cary,NC,27518,2024-11-22,4,58,36,98,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,No,,0,0,0,0,0,0,0,0,0,No,No,No,No,,0,,0,No
+345404,Three Rivers Health and Rehabilitation Center,Windsor,NC,27983,2024-11-01,13,20,14,47,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Liberty Healthcare,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,Yes
+345405,Charlotte Health & Rehabilitation Center,Charlotte,NC,28214,2024-10-23,13,53,21,87,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345406,Gates Health and Rehabilitation Center,Gatesville,NC,27938,2024-08-14,3,40,8,51,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345408,Southpoint Rehabilitation and Healthcare Center,Durham,NC,27713,2025-04-10,23,73,37,133,SNF/NF Distinct Part,No,For Profit - Corporation,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345409,Pembroke Center,Pembroke,NC,28372,2024-11-20,3,57,12,72,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,Yes,,0,,0,No
+345410,Central Continuing Care,Mount Airy,NC,27030,2024-08-07,4,49,33,86,SNF/NF - Medicare/Medicaid,No,For Profit - Partnership,No,,0,37,0,0,0,11,0,19,0,Yes,No,No,No,,0,,0,No
+345411,Skyland Terrace and Rehabilitation,Waynesville,NC,28786,2024-12-06,9,60,11,80,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,Yes
+345412,Brantwood Nh & Retirement Center,Oxford,NC,27565,2024-12-18,6,34,2,42,SNF/NF Dual Certification,No,Non-Profit - Nonprofit Corporation,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345413,Fleshers Fairview Health Care,Fairview,NC,28730,2024-09-06,6,40,7,53,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345414,"Haymount Rehabilitation & Nursing Center, Inc.",Fayetteville,NC,28303,2025-05-01,11,66,11,88,SNF/NF Dual Certification,No,For Profit - Corporation,Yes,Century Care management,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345415,Pineville Rehabilitation and Living Center,Pineville,NC,28134,2025-06-06,6,51,27,84,SNF/NF Dual Certification,No,For Profit - LLC,Yes,CCH Healthcare,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345416,Bermuda Village Retirement Center,Bermuda Run,NC,27006,2025-03-20,14,1,20,35,SNF/NF Distinct Part,No,For Profit - LLC,No,,0,0,0,0,0,7,0,0,0,No,No,No,No,,0,,0,No
+345417,Hillside Nursing Center of Wake Forest,Wake Forest,NC,27588,2024-09-06,25,54,33,112,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345418,Swannanoa Valley Health and Rehabilitation,Swannanoa,NC,28778,2024-09-18,21,78,4,103,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Ascent Healthcare,0,0,0,0,0,0,0,0,0,Yes,Yes,No,No,,0,,0,No
+345419,Lexington Health Care Center,Lexington,NC,27292,2025-04-29,7,63,21,91,SNF/NF Dual Certification,No,For Profit - LLC,Yes,Medical Facilities of America,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345420,Alamance Health Care Center,Burlington,NC,27217,2025-05-01,19,90,57,166,SNF/NF Dual Certification,No,For Profit - LLC,Yes,Medical Facilities of America,0,0,0,0,0,0,0,0,0,Yes,Yes,No,No,,0,,0,No
+345421,The Laurels of Chatham,Pittsboro,NC,27312,2024-04-17,7,78,35,120,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Ciena Healthcare,0,16,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345423,Wilson Rehabilitation and Nursing Center,Wilson,NC,27893,2025-02-13,12,44,18,74,SNF/NF Distinct Part,No,For Profit - Corporation,Yes,Duke Lifepoint Hospital System,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345425,Fair Haven Home Inc,Bostic,NC,28018,2024-05-08,6,16,7,29,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345426,Valley View Care and Rehabilitation,Andrews,NC,28901,2025-03-14,10,51,8,69,SNF/NF Dual Certification,No,For Profit - LLC,Yes,Consulate Healthcare,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345428,The Laurels of Salisbury,Salisbury,NC,28147,2025-01-24,10,40,2,52,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Laurel Healthcare Company,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345429,Peak Resources - Pinelake,Carthage,NC,28327,2024-08-21,10,68,8,86,SNF/NF Dual Certification,No,For Profit - Corporation,Yes,Peak Resources Inc,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,Yes
+345431,Bryan Health and Rehab,Scotland Neck,NC,27874,2025-04-30,6,35,7,48,SNF/NF Dual Certification,No,Non-Profit - Nonprofit Corporation,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345432,River Bend Health and Rehabilitation,Asheville,NC,28806,2024-06-27,8,64,10,82,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Brighton Healthcare,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345433,Clay County Health and Rehabilitation,Hayesville,NC,28904,2025-02-27,9,51,22,82,SNF/NF Dual Certification,No,For Profit - LLC,Yes,Consulate Healthcare,0,20,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,Yes
+345434,Carver Living Center,Durham,NC,27704,2025-02-07,119,13,45,177,SNF/NF Dual Certification,No,For Profit - LLC,Yes,CCH Healthcare,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345436,Wellington Rehabilitation and Healthcare,Knightdale,NC,27545,2024-09-04,7,40,24,71,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Avardis,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345437,Eckerd Living Center,Highlands,NC,28741,2025-02-19,7,37,7,51,SNF/NF Dual Certification,No,For Profit - Corporation,Yes,Mission Health,0,0,0,0,0,0,0,0,0,Yes,Yes,No,No,,0,,0,No
+345438,The Laurels of Summit Ridge,Asheville,NC,28805,2025-05-15,18,35,5,58,SNF/NF Dual Certification,No,For Profit - Corporation,Yes,Ciena Healthcare,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345439,"Peak Resources - Brookshire, Inc",Hillsborough,NC,27278,2025-02-28,12,33,31,76,SNF/NF Dual Certification,No,For Profit - Corporation,Yes,Peak Resources Inc,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,Yes
+345441,Gastonia Health & Rehab Center,Gastonia,NC,28054,2024-10-24,7,37,1,45,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Saber Healthcare Group,0,0,0,0,0,0,0,0,0,Yes,Yes,No,No,,0,,0,No
+345442,Forrest Oakes Healthcare,Albemarle,NC,28001,2025-02-06,5,38,11,54,SNF/NF Dual Certification,No,For Profit - Corporation,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345443,Oak Forest Health and Rehabilitation,Winston Salem,NC,27105,2024-02-15,4,113,46,163,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345445,Glenaire,Cary,NC,27511,2024-10-23,10,10,49,69,SNF/NF - Medicare/Medicaid,No,Non-Profit - Nonprofit Corporation,Yes,Kintura,0,0,0,0,0,0,0,0,0,Yes,No,No,Yes,,0,,0,No
+345446,College Pines Health and Rehabilitation,Connelly Springs,NC,28612,2025-03-13,27,38,24,89,SNF/NF Dual Certification,No,For Profit - LLC,Yes,Sanstone Health and Rehab,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345447,Emerald Ridge Health and Rehabilitation,Asheville,NC,28804,2025-03-06,14,66,10,90,SNF/NF Dual Certification,No,For Profit - Corporation,Yes,Consulate Healthcare,0,24,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,Yes
+345448,Maple Grove Health and Rehabilitation Center,Greensboro,NC,27406,2025-06-05,0,93,5,98,SNF/NF Dual Certification,No,For Profit - LLC,Yes,Principle Ltc,0,28,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345449,King Health and Rehabilitation Center,King,NC,27021,2025-04-16,7,49,34,90,SNF/NF Dual Certification,No,For Profit - LLC,Yes,Medical Facilities of America,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345450,Westwood Health and Rehabilitation,Archdale,NC,27263,2024-11-21,1,35,28,64,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Avardis Health,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345457,Belaire Health Care Center,Gastonia,NC,28052,2024-05-09,17,35,27,79,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Medical Facilities of America,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345458,Treyburn Rehabilitation Center,Durham,NC,27712,2025-03-20,13,72,25,110,SNF/NF Dual Certification,No,For Profit - LLC,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345459,Willowbrooke Court SC Ctr at Tryon Estates,Columbus,NC,28722,2024-11-20,2,0,5,7,Skilled Nursing Facility (SNF) - Medicare Participation,No,Non-Profit - Nonprofit Corporation,Yes,Retirement Life Communities,0,0,0,0,0,0,0,0,0,Yes,No,No,Yes,,0,,0,No
+345460,Guilford Health Care Center,Greensboro,NC,27406,2025-04-17,8,76,23,107,SNF/NF Dual Certification,No,For Profit - Corporation,Yes,Medical Facilities of America Inc,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345462,The Oaks-Brevard,Brevard,NC,28712,2024-12-18,5,65,10,80,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Pruitt Health,0,24,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345463,Life Care Center of Hendersonville,Hendersonville,NC,28792,2024-07-19,5,25,29,59,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Life Care Centers of America,0,0,0,0,0,0,0,0,0,Yes,Yes,No,No,,0,,0,No
+345464,Oak Grove Healthcare,Rutherfordton,NC,28139,2024-09-06,0,39,19,58,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Avardis,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345465,Bayview Nursing & Rehabilitation Center,New Bern,NC,28560,2024-08-22,16,36,8,60,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Century Care Management,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345466,Willowbrook Rehabilitation and Care,Yadkinville,NC,27055,2024-07-24,3,58,8,69,SNF/NF - Medicare/Medicaid,No,For Profit - Partnership,Yes,Avardis,0,20,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345467,NOVANT HEALTH PRESBYTERIAN MEDICAL CENTER-SNU,CHARLOTTE,NC,28207,2024-08-15,11,0,0,11,SNF/NF - Medicare/Medicaid,Yes,Non-Profit - Nonprofit Corporation,Yes,Novant Health,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345468,Liberty Commons Rehabilitation Center,Wilmington,NC,28403,2025-01-22,8,62,6,76,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Liberty Health,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345471,Mecklenburg Heath and Rehabilitation,Charlotte,NC,28273,2024-06-06,8,59,24,91,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345472,Southwood Nursing and Retirement,Clinton,NC,28328,2025-01-24,10,50,22,82,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Liberty Health,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345473,Wilora Lake Healthcare,Charlotte,NC,28212,2025-02-20,8,41,17,66,SNF/NF Dual Certification,No,For Profit - Corporation,Yes,Consulate Healthcare,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345475,Tsali Care Center,Cherokee,NC,28719,2024-08-22,6,48,11,65,SNF/NF - Medicare/Medicaid,No,Non-Profit - Nonprofit Corporation,No,,0,16,0,0,0,2,0,0,0,Yes,No,No,No,,0,,0,No
+345477,Biltmore Haven Nursing and Rehabilitation,Arden,NC,28704,2025-05-01,8,49,13,70,SNF/NF Dual Certification,No,For Profit - LLC,Yes,Consulate Healthcare,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345478,Harnett Woods Nursing and Rehabilitation Center,Dunn,NC,28334,2024-05-31,2,74,9,85,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Redwood Group,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345479,Salemtowne,Winston-Salem,NC,27106,2024-09-12,32,8,54,94,SNF/NF - Medicare/Medicaid,No,Non-Profit - Nonprofit Corporation,No,,0,20,0,0,0,0,0,0,0,Yes,Yes,No,Yes,,0,,0,No
+345481,Woodlands Nursing & Rehabilitation Center,Fayetteville,NC,28301,2024-05-07,24,39,15,78,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Liberty Health and Rehab,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345482,Brookdale Carriage Club Providence,Charlotte,NC,28226,2025-04-07,8,0,2,10,SNF (Medicare) Only,No,For Profit - Corporation,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,Yes,,0,,0,No
+345483,Shaire Nursing Center,Lenoir,NC,28645,2024-07-03,19,29,7,55,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,No,,0,0,0,0,0,0,0,0,0,Yes,Yes,No,No,,0,,0,No
+345484,TRANSYLVANIA REGIONAL HOSPITAL,BREVARD,NC,28712,2024-09-25,4,0,0,4,SNF/NF - Medicare/Medicaid,Yes,For Profit - Corporation,Yes,HCA Healthcare,0,0,0,0,0,0,0,0,0,No,No,No,No,,0,,0,Yes
+345487,Cherry Point Bay Nursing and Rehabilitation Center,Havelock,NC,28532,2025-07-02,11,37,17,65,SNF/NF Dual Certification,No,For Profit - LLC,Yes,Principle Ltc,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345489,Rockwell Park Rehabilitation and Healthcare Center,Charlotte,NC,28262,2025-05-23,5,69,12,86,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,No,,0,0,0,0,0,0,0,0,0,Yes,Yes,No,No,,0,,0,No
+345490,Ayden Court Nursing and Rehabilitation Center,Ayden,NC,28513,2025-02-06,7,50,17,74,SNF/NF Dual Certification,No,For Profit - LLC,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345491,Croatan Ridge Nursing and Rehabilitation Center,Newport,NC,28570,2025-02-07,11,29,19,59,SNF/NF Dual Certification,No,For Profit - LLC,Yes,Princilple Long Term Care,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,Yes
+345493,Hendersonville Health and Rehabilitation,Flat Rock,NC,28731,2024-09-11,12,63,31,106,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Sanstone Health & Rehab,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345494,Peak Resources - Gastonia,Gastonia,NC,28054,2025-04-03,12,66,19,97,SNF/NF Dual Certification,No,For Profit - Corporation,Yes,Peak Resoources Inc,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345495,The Stewart Health Center,Charlotte,NC,28210,2025-05-16,2,0,64,66,SNF (Medicare) Only,No,Non-Profit - Nonprofit Corporation,Yes,Life Care Services,0,20,0,0,0,0,0,0,0,Yes,Yes,No,Yes,,0,,0,No
+345496,Liberty Commons Nursing & Rehabilitation Center of Alamance County,Burlington,NC,27215,2024-09-27,9,88,17,114,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,No,,0,20,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345499,Litchford Falls Health and Rehabilitation Center,Raleigh,NC,27615,2025-05-08,29,38,21,88,SNF/NF Dual Certification,No,For Profit - LLC,Yes,Medical Facilities of America,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345500,Windsor Point Continuing Care,Fuquay-Varina,NC,27526,2024-11-27,3,0,25,28,Skilled Nursing Facility (SNF) - Medicare Participation,No,For Profit - Corporation,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,Yes,,0,,0,No
+345501,Croasdaile Village,Durham,NC,27705,2024-07-11,7,14,60,81,SNF/NF - Medicare/Medicaid,No,Non-Profit - Nonprofit Corporation,Yes,United Methodist Retirement Home Inc,0,0,0,0,0,0,0,0,0,No,No,No,Yes,,0,,0,No
+345502,Lake Park Nursing and Rehabilitation Center,Indian Trail,NC,28079,2024-10-24,14,55,36,105,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Principle LTC,2,59,0,0,0,11,0,0,0,Yes,No,No,No,,0,,0,Yes
+345503,Liberty Commons Nsg and Rehab Ctr of Rowan County,Salisbury,NC,28147,2024-09-11,12,60,10,82,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345505,Carolina Rehab Center of Cumberland,Fayetteville,NC,28306,2025-07-02,49,78,4,131,SNF/NF Dual Certification,No,For Profit - Corporation,Yes,Medical Facilities of America,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345506,Whitestone a Masonic and Eastern Star Community,Greensboro,NC,27407,2025-04-17,24,19,6,49,SNF/NF Dual Certification,No,Non-Profit - Nonprofit Corporation,No,,0,12,0,0,0,0,0,0,0,Yes,No,No,Yes,,0,,0,No
+345507,Autumn Care of Myrtle Grove,Wilmington,NC,28412,2024-07-23,13,43,14,70,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Saber Healthcare Group,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345508,UNC Rex Rehab & Nursing Care Center of Apex,Apex,NC,27502,2025-05-22,23,33,40,96,SNF/NF Distinct Part,Yes,Non-Profit - Nonprofit Corporation,Yes,UNC Rex Hospital Inc,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345509,Dahlia Gardens Center for Nursing and Rehabilitation,Aberdeen,NC,28315,2024-08-08,3,66,14,83,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Alliance Health Group,0,0,0,0,0,0,0,0,0,Yes,Yes,No,No,,0,,0,No
+345510,Tarboro Health and Rehabilitation LLC,Tarboro,NC,27886,2025-01-09,8,70,12,90,SNF/NF Dual Certification,No,For Profit - LLC,No,,0,24,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345511,Autumn Care of Statesville,Statesville,NC,28625,2025-04-16,21,64,9,94,SNF/NF Dual Certification,No,For Profit - LLC,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345512,Cypress Glen Retirement Community,Greenville,NC,27858,2024-09-19,2,0,1,3,Skilled Nursing Facility (SNF) - Medicare Participation,No,Non-Profit - Nonprofit Corporation,Yes,The United Methodist Retirement Homes,0,0,0,0,0,0,0,0,0,Yes,No,No,Yes,,0,,0,No
+345513,Tower Nursing and Rehabilitation Center,Raleigh,NC,27604,2025-03-20,21,50,11,82,SNF/NF Dual Certification,No,For Profit - LLC,Yes,Principle Ltc,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345514,Autumn Care of Nash,Nashville,NC,27856,2024-06-13,22,33,3,58,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Saber Healthcare Group,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,Yes
+345515,PruittHealth-Town Center,Harrisburg,NC,28075,2024-06-25,12,32,22,66,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Pruitt Health,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345516,Conover Nursing And Rehabilitation Center,Conover,NC,28613,2025-02-21,8,48,18,74,SNF/NF Dual Certification,No,For Profit - Corporation,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,Yes
+345518,Inn at Quail Haven Village,Pinehurst,NC,28374,2024-06-05,20,17,0,37,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Liberty Healthcare Corporation,0,0,0,0,0,0,0,0,0,Yes,No,No,Yes,,0,,0,Yes
+345519,Liberty Commons Nursing & Rehabilitation Center of Johnston County,Benson,NC,27504,2024-07-12,21,73,4,98,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Liberty Health Care,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345520,Magnolia Gardens Center for Nursing and Rehabilitation,Thomasville,NC,27360,2024-07-11,1,71,28,100,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Alliance Health Group,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345522,Fletcher Rehabilitation and Healthcare Center,Fletcher,NC,28732,2025-06-02,9,46,19,74,SNF/NF Dual Certification,No,For Profit - LLC,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345523,Ramseur Rehabilitation and Healthcare Center,Ramseur,NC,27316,2024-05-17,2,68,12,82,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Yad Healthcare,0,24,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345525,The Gardens of Taylor Glen Retirement Community,Concord,NC,28027,2024-11-07,3,0,0,3,Skilled Nursing Facility (SNF) - Medicare Participation,No,Non-Profit - Nonprofit Corporation,Yes,Thrivemore,0,0,0,0,0,0,0,0,0,Yes,No,No,Yes,,0,,0,No
+345526,Carolina Rehab Center of Burke,Connelly Spring,NC,28612,2024-08-01,44,34,0,78,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Medical Facilities of America,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345528,River Landing at Sandy Ridge,Colfax,NC,27235,2024-11-21,5,3,47,55,SNF/NF - Medicare/Medicaid,No,Non-Profit - Nonprofit Corporation,Yes,Kintura,0,0,0,0,0,0,0,0,0,Yes,No,No,Yes,,0,,0,Yes
+345529,Perry Creek Health and Rehabilitation Center,Raleigh,NC,27616,2025-02-24,21,89,8,118,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Medical Facilities of America,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345530,Penn Nursing Center,Reidsville,NC,27320,2025-01-30,3,50,15,68,SNF/NF Dual Certification,No,Non-Profit - Nonprofit Corporation,Yes,Cone Health,0,0,0,0,0,0,0,0,0,Yes,Yes,No,No,,0,,0,Yes
+345531,NC State Veterans Home - Salisbury,Salisbury,NC,28145,2024-08-08,5,25,6,36,SNF/NF - Medicare/Medicaid,No,Government - State,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345532,Liberty Commons Nursing and Rehabilitation Center of Lee County LLC,Sanford,NC,27332,2025-05-05,3,59,15,77,SNF/NF Dual Certification,No,For Profit - LLC,Yes,Liberty Health Management,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345533,The Cedars of Chapel Hill,Chapel Hill,NC,27517,2025-04-30,2,0,7,9,SNF (Medicare) Only,No,Non-Profit - Other Nonprofit,No,,0,0,0,0,0,0,0,0,0,Yes,Yes,No,Yes,,0,,0,No
+345534,Sanford Health & Rehabilitation Co,Sanford,NC,27330,2025-04-04,8,75,20,103,SNF/NF Dual Certification,No,For Profit - LLC,Yes,Sanstone Health and Rehabilitation,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345535,Adams Farm Living & Rehabilitation,Jamestown,NC,27282,2024-08-21,8,44,46,98,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Century Care Management,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345537,"Peak Resources-Wilmington, Inc",Wilmington,NC,28401,2025-03-07,2,70,18,90,SNF/NF Distinct Part,No,For Profit - Corporation,Yes,Peak Resources Inc,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345538,PruittHealth-Raleigh,Raleigh,NC,27603,2024-11-15,11,76,59,146,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Pruitt Health,0,20,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345539,The Arbor,Pittsboro,NC,27312,2025-03-12,2,0,0,2,SNF (Medicare) Only,No,Non-Profit - Nonprofit Corporation,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,Yes,,0,,0,No
+345541,Lakeside Health & Rehab Center,Huntersville,NC,28078,2024-09-27,20,56,27,103,SNF/NF - Medicare/Medicaid,No,Government - Federal,Yes,Saber Healthcare,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345542,The Forest At Duke Inc,Durham,NC,27705,2024-11-19,3,0,0,3,SNF (Medicare) Only,No,Non-Profit - Nonprofit Corporation,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,Yes,,0,,0,No
+345543,Bermuda Commons Nursing and Rehabilitation Center,Advance,NC,27006,2025-03-06,8,72,23,103,SNF/NF Dual Certification,No,For Profit - LLC,Yes,Liberty Health,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345544,Asbury Health and Rehabilitation Center,Charlotte,NC,28215,2024-10-16,41,11,59,111,SNF/NF - Medicare/Medicaid,No,Non-Profit - Other Nonprofit,Yes,"Givens Estates, Inc.",0,0,0,0,0,0,0,0,0,Yes,No,No,Yes,,0,,0,No
+345546,The Rosewood Health Center,Raleigh,NC,27615,2024-03-08,48,0,0,48,Skilled Nursing Facility (SNF) - Medicare Participation,No,Non-Profit - Nonprofit Corporation,No,,0,0,0,0,0,0,0,0,0,Yes,Yes,No,No,,0,,0,No
+345547,Camden Health and Rehabilitation,Greensboro,NC,27407,2024-03-27,17,73,36,126,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Sanstone Health and Rehab,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345548,Ashton Health and Rehabilitation,McLeansville,NC,27301,2024-05-01,16,61,48,125,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Sanstone Health and Rehab,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345549,Brunswick Rehabilitation and Healthcare Center,Bolivia,NC,28422,2025-03-05,12,54,13,79,SNF/NF Dual Certification,No,For Profit - LLC,Yes,Yad Healthcare,0,20,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345550,White Oak of Waxhaw,Waxhaw,NC,28173,2024-08-02,23,41,28,92,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,National Healthcare Corp,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345551,PruittHealth-Carolina Point,Durham,NC,27705,2024-10-17,8,75,30,113,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Pruitt Health,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345552,The Shannon Gray Rehabilitation & Recovery Center,Jamestown,NC,27282,2025-04-03,5,54,36,95,SNF/NF Dual Certification,No,For Profit - Corporation,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345553,Autumn Care of Fayetteville,Fayetteville,NC,28314,2025-01-09,4,43,37,84,SNF/NF Dual Certification,No,For Profit - Corporation,Yes,Saber Healthcare,0,0,0,0,0,0,0,0,0,Yes,Yes,No,No,,0,,0,No
+345554,Trinity Grove,Wilmington,NC,28412,2024-10-10,19,27,46,92,SNF/NF - Medicare/Medicaid,No,Non-Profit - Church Related,Yes,Lutheran Services Carolinas,0,25,0,0,0,0,0,0,0,Yes,No,No,Yes,,0,,0,No
+345555,Hillcrest Raleigh at Crabtree Valley,Raleigh,NC,27612,2025-03-20,42,27,32,101,SNF/NF Distinct Part,No,For Profit - Corporation,Yes,Hillcrest Convalescent Inc,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345556,Deerfield Episcopal Retirement,Asheville,NC,28803,2025-04-03,3,0,56,59,SNF (Medicare) Only,No,Non-Profit - Nonprofit Corporation,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,Yes,,0,,0,No
+345557,Azalea Health & Rehab Center,Wilmington,NC,28412,2024-04-02,11,39,16,66,SNF/NF Dual Certification,No,For Profit - Corporation,Yes,Saber Healthcare Group,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345558,NC State Veterans Home - Black Mountain,Black Mountain,NC,28711,2024-09-05,2,36,43,81,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Pruitt Health,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345559,Homestead Hills,Winston-Salem,NC,27103,2025-05-08,6,0,28,34,SNF/NF Dual Certification,No,For Profit - Corporation,Yes,Senior Living Communities,0,11,0,0,0,2,0,0,0,Yes,No,No,No,,0,,0,No
+345560,NC State Veterans Home-Kinston,Kinston,NC,28504,2024-08-22,4,38,54,96,SNF/NF - Medicare/Medicaid,No,Government - State,Yes,Department of Military and Veterans Affairs,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345561,Fuquay-Varina Health and Rehabilitation Center,Fuquay Varina,NC,27526,2024-12-05,19,62,17,98,SNF/NF Dual Certification,No,For Profit - LLC,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345562,Clear Creek Nursing & Rehabilitation Center,Mint Hill,NC,28227,2025-03-21,10,57,37,104,SNF/NF Dual Certification,No,For Profit - Corporation,Yes,"Spruce LTC, LLC",0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345563,Pavilion Health Center at Brightmore,Charlotte,NC,28277,2024-03-26,7,49,45,101,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Liberty Healthcare,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345564,Sharon Towers,Charlotte,NC,28210,2024-11-07,6,0,0,6,Skilled Nursing Facility (SNF) - Medicare Participation,No,Non-Profit - Nonprofit Corporation,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,Yes,,0,,0,No
+345565,Trinity Elms,Clemmons,NC,27012,2025-01-17,9,33,47,89,SNF/NF Dual Certification,No,Non-Profit - Church Related,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,Yes,,0,,0,No
+345566,PruittHealth-Union Pointe,Monroe,NC,28110,2025-05-12,14,48,19,81,SNF/NF Dual Certification,No,For Profit - LLC,Yes,PruittHealth,0,21,2,0,0,2,0,0,0,Yes,No,No,No,,0,,0,No
+345567,Autumn Care of Cornelius,Cornelius,NC,28031,2024-05-02,15,54,24,93,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Saber Health Care Group,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345568,Davis Health and Wellness Center at Cambridge Village,Wilmington,NC,28405,2025-01-24,6,2,10,18,SNF/NF Dual Certification,No,Non-Profit - Nonprofit Corporation,No,,0,0,0,0,0,0,0,0,0,No,No,No,No,,0,,0,No
+345569,Springbrook Nursing and Rehabilitation Center,Clayton,NC,27520,2025-04-24,11,52,29,92,SNF/NF Dual Certification,No,For Profit - LLC,Yes,Principle LTC,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345570,Huntersville Health & Rehabilitation Center,Huntersville,NC,28078,2025-05-07,34,19,34,87,SNF/NF Dual Certification,No,For Profit - LLC,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345571,Bradley Creek Health Center,Wilmington,NC,28403,2024-04-11,26,0,1,27,SNF (Medicare) Only,No,For Profit - Corporation,Yes,Liberty Senior Living,0,0,0,0,0,0,0,0,0,Yes,No,No,Yes,,0,,0,No
+345572,The Cardinal at North Hills,Raleigh,NC,27609,2024-09-19,3,0,10,13,Skilled Nursing Facility (SNF) - Medicare Participation,No,For Profit - LLC,Yes,Kisco Senior Living,0,10,0,0,0,0,0,0,0,No,No,No,Yes,,0,,0,No
+345573,Arbor Acres United Methodist Retirement Community,Winston Salem,NC,27104,2025-03-20,2,0,2,4,SNF (Medicare) Only,No,Non-Profit - Nonprofit Corporation,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,Yes,,0,,0,No
+345574,Bellarose Nursing And Rehab,Garner,NC,27529,2024-05-16,27,37,26,90,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,Yes
+345575,Brunswick Health & Rehab Center,Ash,NC,28420,2025-02-18,11,53,31,95,SNF/NF - Medicare/Medicaid,No,For Profit - Corporation,Yes,Saber Health Group,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345576,Parkview Health and Rehabilitation Center,Chapel Hill,NC,27517,2024-10-03,12,41,43,96,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,"Long Term Care Management Services, LLC",0,0,0,0,0,0,0,0,0,Yes,Yes,No,No,,0,,0,No
+345577,Swift Creek Health Center,CARY,NC,27518,2025-06-18,1,0,2,3,SNF (Medicare) Only,No,For Profit - Corporation,Yes,Liberty Senior Living,0,0,0,0,0,0,0,0,0,Yes,No,No,Yes,,0,,0,No
+345578,Briar Creek Health Center,Charlotte,NC,28210,2025-05-06,1,0,0,1,SNF (Medicare) Only,No,For Profit - LLC,No,,0,0,0,0,0,0,0,0,0,No,No,No,Yes,,0,,0,No
+345579,North Carolina State Veterans Home Kernersville,Kernersville,NC,27284,2024-08-22,1,0,62,63,SNF/NF - Medicare/Medicaid,No,Government - State,No,,0,0,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,No
+345580,Embassy at Morehead City,MOREHEAD CITY,NC,28557,2026-02-17,0,0,1,1,SNF/NF - Medicare/Medicaid,No,For Profit - LLC,Yes,Embassy Healthcare,0,0,0,0,0,0,0,0,0,No,No,No,No,,0,,0,No
+34A001,Black Mountain Neuro-Medical Treatment Center,Black Mountain,NC,28711,2024-08-15,0,74,0,74,Nursing Facility (NF) - Medicaid Participation,No,Government - State,No,,0,71,0,0,0,0,0,0,0,Yes,No,No,No,,0,,0,Yes
+34A002,O'Berry Neuro-Medical Treatment Center,Goldsboro,NC,27533,2024-12-16,0,120,0,120,Nursing Facility (NF) - Medicaid Participation,No,Government - State,Yes,State of NC DHHS,0,0,0,0,0,0,0,0,144,Yes,Yes,No,No,,0,,0,No
