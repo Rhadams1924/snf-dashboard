@@ -476,6 +476,10 @@ with tabs[1]:
             lambda x: "4-5 Stars" if x >= 4 else "3 Stars" if x == 3
             else "1-2 Stars" if x >= 1 else "Not Rated"
         )
+        map_data["_beds"] = pd.to_numeric(
+            map_data["number_of_certified_beds"], errors="coerce"
+        ).fillna(0).clip(lower=1)
+
         fig = px.scatter_mapbox(
             map_data, lat="latitude", lon="longitude",
             color="color_cat",
@@ -483,7 +487,7 @@ with tabs[1]:
                 "4-5 Stars":"#22c55e","3 Stars":"#f59e0b",
                 "1-2 Stars":"#ef4444","Not Rated":"#94a3b8",
             },
-            size="number_of_certified_beds", size_max=18,
+            size="_beds", size_max=18,
             hover_name="provider_name",
             hover_data={
                 "citytown": True, "countyparish": True,
@@ -491,7 +495,7 @@ with tabs[1]:
                 "overall_rating": True,
                 "ownership_group": True,
                 "chain_name": True,
-                "latitude": False, "longitude": False, "color_cat": False,
+                "latitude": False, "longitude": False, "color_cat": False, "_beds": False,
             },
             mapbox_style="carto-positron",
             zoom=5, height=600,
