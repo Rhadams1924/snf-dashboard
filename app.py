@@ -480,6 +480,20 @@ with tabs[1]:
             map_data["number_of_certified_beds"], errors="coerce"
         ).fillna(0).clip(lower=1)
 
+        hover_name_col = next(
+            (c for c in ["provider_name", "name"] if c in map_data.columns), None
+        )
+        hover_candidates = {
+            "citytown": True, "city": True, "countyparish": True, "county": True,
+            "number_of_certified_beds": True, "beds": True,
+            "overall_rating": True, "ownership_group": True,
+            "ownership": True, "chain_name": True, "chain": True,
+        }
+        hover_data = {
+            k: v for k, v in hover_candidates.items() if k in map_data.columns
+        }
+        hover_data.update({"latitude": False, "longitude": False, "color_cat": False, "_beds": False})
+
         fig = px.scatter_mapbox(
             map_data, lat="latitude", lon="longitude",
             color="color_cat",
@@ -488,15 +502,8 @@ with tabs[1]:
                 "1-2 Stars":"#ef4444","Not Rated":"#94a3b8",
             },
             size="_beds", size_max=18,
-            hover_name="provider_name",
-            hover_data={
-                "citytown": True, "countyparish": True,
-                "number_of_certified_beds": True,
-                "overall_rating": True,
-                "ownership_group": True,
-                "chain_name": True,
-                "latitude": False, "longitude": False, "color_cat": False, "_beds": False,
-            },
+            hover_name=hover_name_col,
+            hover_data=hover_data,
             mapbox_style="carto-positron",
             zoom=5, height=600,
             title=f"{len(map_data):,} {state_name} SNFs",
