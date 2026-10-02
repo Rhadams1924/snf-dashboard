@@ -494,7 +494,7 @@ with tabs[1]:
         }
         hover_data.update({"latitude": False, "longitude": False, "color_cat": False, "_beds": False})
 
-        fig = px.scatter_mapbox(
+        fig = px.scatter_map(
             map_data, lat="latitude", lon="longitude",
             color="color_cat",
             color_discrete_map={
@@ -504,7 +504,7 @@ with tabs[1]:
             size="_beds", size_max=18,
             hover_name=hover_name_col,
             hover_data=hover_data,
-            mapbox_style="carto-positron",
+            map_style="carto-positron",
             zoom=5, height=600,
             title=f"{len(map_data):,} {state_name} SNFs",
         )
